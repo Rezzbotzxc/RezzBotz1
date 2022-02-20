@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/PMBzRKg/odc.jpg" alt="X Dev-Team" width="300" />
+<img src="https://ibb.co/4Sb1nWQ" alt="Rezz OFC" width="300" />
 
 # KANG REMAKE
 
