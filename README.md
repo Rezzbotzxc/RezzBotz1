@@ -1,19 +1,10 @@
 <div align="center">
-<img src="https://ibb.co/4Sb1nWQ" alt="Rezz OFC" width="300" />
 
-# KANG REMAKE
+# REZZBOT V1
 
 >
 >
 >
-</div>
-<p align="center">
-  <a href="https://github.com/KiZakiXD"><img title="Remake" src="https://img.shields.io/badge/Author-KiZakiXD-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-  <a href="https://wa.me/285878313791"> I Am Wibu >//< </a>
-</h4>
-</p>
-
 - 🌱 I Can Codes In :
 
   - HTML
@@ -27,9 +18,7 @@
 
 **Information:**
 
-- [My Chanel Youtube](https://m.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w)
-
-- [Donate](wa.me/6285878313791)
+- [Donate](wa.me/6281220578545)
 
 ## <div align="center">⚡ Information </div>
 
