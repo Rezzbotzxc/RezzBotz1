@@ -14,19 +14,19 @@ nocache('./xdev.js', module => console.log(`${module} is now updated!`))
 
 const starts = async (xdev = new WAConnection()) => {
     xdev.logger.level = 'warn'
-    xdev.version = [2, 2123, 8]
-    xdev.browserDescription = [ 'KiZakiXD', 'Chrome', '3.0' ]
+    xdev.version = [2, 2143, 3]
+    xdev.browserDescription = [ 'RezzOFC', 'Chrome', '3.0' ]
     console.log(banner.string)
     xdev.on('qr', () => {
-        console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan bang'))
+        console.log(color('[','white'), color('!','red'), color(']','white'), color(' SCAN QR DIATAS, SETELAH 20 DETIK OTOMATIS GANTI QR'))
     })
 
     fs.existsSync('./session.json') && xdev.loadAuthInfo('./session.json')
     xdev.on('connecting', () => {
-        start('2', 'Connecting...')
+        start('2', 'Menghubungkan')
     })
     xdev.on('open', () => {
-        success('2', 'Connected')
+        success('2', 'Terhubung')
     })
     await xdev.connect({timeoutMs: 30*1000})
         fs.writeFileSync('./session.json', JSON.stringify(xdev.base64EncodedAuthInfo(), null, '\t'))
