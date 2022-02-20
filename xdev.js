@@ -1,4 +1,4 @@
-// SC BY NANDA STYLE
+// SC BY REZZ OFC
 // JANGAN DIPERJUAL BELIKAN !
 // SC PREMIUMNYA FULL MODULE!
 const
@@ -155,9 +155,9 @@ module.exports = xdev = async (xdev, dev) => {
 
         //MESS
 		mess = {
-			wait: '_Tunggu sebentar ya kak_',
-			admin: '_Kusus Admin Grup',
-			owner: '_Kusus Owner',
+			wait: '_Tunggu Sebentar Ya Tod_',
+			admin: '_INI BUAT ADMIN DOANG_',
+			owner: '_Khusus Owner_',
 			success: '√ Done!',
 			wrongFormat: 'Format Salah Tod',
 			error: {
